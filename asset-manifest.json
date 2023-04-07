@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DuardoHenrique/react-color-enlarge.git/static/css/main.256fd67b.css",
+    "main.js": "/DuardoHenrique/react-color-enlarge.git/static/js/main.c54ea71a.js",
+    "static/js/787.ace8d084.chunk.js": "/DuardoHenrique/react-color-enlarge.git/static/js/787.ace8d084.chunk.js",
+    "index.html": "/DuardoHenrique/react-color-enlarge.git/index.html",
+    "main.256fd67b.css.map": "/DuardoHenrique/react-color-enlarge.git/static/css/main.256fd67b.css.map",
+    "main.c54ea71a.js.map": "/DuardoHenrique/react-color-enlarge.git/static/js/main.c54ea71a.js.map",
+    "787.ace8d084.chunk.js.map": "/DuardoHenrique/react-color-enlarge.git/static/js/787.ace8d084.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256fd67b.css",
+    "static/js/main.c54ea71a.js"
+  ]
+}
