@@ -5,7 +5,6 @@ const Paragraph = ({children,color}) => {
 }
 
 Paragraph.defaultProps = {
-    backgroundColor: '#2F86AE',
     color: '#362BAE'
 }
 

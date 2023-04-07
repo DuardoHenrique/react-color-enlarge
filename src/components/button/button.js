@@ -1,6 +1,6 @@
 const Button = ({label, alertLabel}) => {
     return (
-    <button style={{cursor: 'pointer'}} onClick={() => alertLabel(label)}> {label} </button>
+    <button style={{cursor: 'pointer'}} onClick={() => alertLabel(label)}>{label}</button>
     )
 }
 

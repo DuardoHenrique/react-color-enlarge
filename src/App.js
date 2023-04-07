@@ -9,9 +9,9 @@ const alertLabel = (label) => {
 function App() {
   return (
     <>
-      <Paragraph>
+      <Paragraph >
         Praticando alguns conhecimentos básicos em React, adquiridos no curso DevQuest.
-      </Paragraph>
+      </Paragraph >
       <div className='btn'>
         <Button alertLabel={alertLabel}/>
         <Button label={'Next'} alertLabel={alertLabel}/>
